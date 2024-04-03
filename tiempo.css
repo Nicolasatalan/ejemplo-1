@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100vw;
+    margin: 0;
+}
+.nav{
+    text-align: center;
+    color: azure;
+    background-color: rgb(74, 96, 224);
+    padding: 12px;
+}
+ul{
+    display: flex;
+    flex-direction:row  ;
+    justify-content: space-evenly;
+    justify-content: center;
+    margin-left: 35vw;
+    margin-right: 35vw;
+    padding:0.5vw;
+}
+.parra{
+    text-align: center;
+    padding: 2vw;
+}
+.tempe{
+
+}
+.tempo{
+    
+}
